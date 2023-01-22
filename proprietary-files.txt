@@ -131,7 +131,6 @@ vendor/lib/camera/fdconfigvideolite.bin
 -vendor/lib/libsnsapi.so
 -vendor/lib/libsnsdiaglog.so
 -vendor/lib/libswregistrationalgo.so
--vendor/lib/libswvdec.so
 -vendor/lib/libvideoutils.so
 vendor/lib64/camera/components/etc/visidon_clearshot_params.xml
 -vendor/lib64/camera/components/com.altek.node.depurple.so
