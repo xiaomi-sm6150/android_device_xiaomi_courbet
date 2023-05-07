@@ -343,6 +343,9 @@ vendor/etc/camera/megviifacepp_0_5_2_model:vendor/etc/camera/facedetectpp_0_5_2_
 # Camera-firmware
 vendor/firmware/CAMERA_ICP.elf
 
+# DRM
+-vendor/lib64/liboemcrypto.so
+
 # IPA
 vendor/firmware/ipa_fws.b00
 vendor/firmware/ipa_fws.b01
